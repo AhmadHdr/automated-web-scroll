@@ -6,7 +6,7 @@
 
 ## Struktur Direktori Proyek
 ```
-comic-auto-scroll/
+automated-web-scroll/
 │
 ├── components/
 │   └── ui/
